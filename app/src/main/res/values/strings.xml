@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">number_guess_game</string>
+    <string name="start_guessing">1 ile 100 arasındaki bir sayıyı tahmin edin.</string>
+    <string name="guess_higher">Daha büyük bir sayı dene.</string>
+    <string name="guess_lower">Daha küçük bir sayı dene.</string>
+    <string name="congratulations">Tebrikler! Doğru tahmin. Sayı: %1$d\nToplam deneme sayısı: %2$d</string>
+    <string name="invalid_guess">Geçersiz giriş. Lütfen bir sayı girin.</string>
+</resources>
